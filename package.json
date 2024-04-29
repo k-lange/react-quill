@@ -44,7 +44,7 @@
   ],
   "dependencies": {
     "lodash": "^4.17.21",
-    "quill": "^2.0.0-rc.4"
+    "quill": "^2.0.0"
   },
   "peerDependencies": {
     "react": "^16 || ^17 || ^18",
